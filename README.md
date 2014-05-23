@@ -13,7 +13,7 @@ For each set there is 3 files with data we need:
      6 LAYING
   3. A test file with a 561-feature vector with time and frequency domain variables. This variables are described in 
 
-There are 9 more files in under the Inertial Signals folder. They are the angular velocities from the gyro around the x,y,z axis in rad/seg, the acceleration in the x,y,z axis in g units, and the acceleration in these axis after passing a lowband filter to take out the gravity. There are 128 readings/row at intervals of 2.56 sec and 50% overlap.
+There are 9 more files in under the Inertial Signals folder. They are the angular velocities from the gyro around the x,y,z axis in rad/seg, the acceleration in the x,y,z axis in g units, and the acceleration in these axis after passing a lowband filter to take out the gravity. There are 128 readings/row at intervals of 2.56 sec and 50% overlap. We do not use them for our analysis
 
 
 At the end we want to have a tidy dataset with the merge of both sets and the folowing information: subjects, activity, mean and std of the angular velocities and body accelerations.
