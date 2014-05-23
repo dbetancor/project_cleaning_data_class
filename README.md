@@ -18,7 +18,7 @@ There are 9 more files in under the Inertial Signals folder. They are the angula
 
 At the end we want to have a tidy dataset with the merge of both sets and the folowing information: subjects, activity, mean and std of the angular velocities and body accelerations.
 
-The script run_analysis.R is self commented. It will read and merge all the datasets, printing information as it does it. Rename the activities and names to more proper ones. Save it with the name tidy_vector.txt and create and save a summary with name tidy_summary.csv
+The script run_analysis.R is self commented. It will read and merge all the datasets, printing information as it does it. Rename the activities and names to more proper ones. Save it with the name tidy_vector.csv and create and save a summary with name tidy_summary.csv
 
 
 
